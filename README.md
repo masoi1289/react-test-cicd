@@ -1,4 +1,5 @@
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![CI/CD](https://github.com/masoi1289/react-test-cicd/workflows/CI/CD/badge.svg)
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
